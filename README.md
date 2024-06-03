@@ -1,16 +1,14 @@
-## Hi there 👋
+### Boas Vindas ao meu perfil
 
-<!--
-**nielissz/nielissz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Kallyane
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br/?utm_term=alura&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Institucional&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=386166608&hsa_grp=21666755648&hsa_ad=697522196628&hsa_src=g&hsa_tgt=kwd-300088401&hsa_kw=alura&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=EAIaIQobChMIo47H1sTAhgMV12JIAB1bWgdKEAAYASAAEgJI-PD_BwE)
+- Estou me desenvolvendo na linguagem de JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Voce pode entrar e contato comigo
+
+  @kallysz
+
+  @kallyscandy__
+
+  ![](https://media1.tenor.com/m/TL0_PaatPL8AAAAC/aftermath.gif)
